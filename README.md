@@ -1,4 +1,4 @@
-# writing
+# attentionmech
 
 To pen down thoughts around stuff i like. mostly for my own lookback
 
