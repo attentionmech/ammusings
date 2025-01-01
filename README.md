@@ -1,4 +1,4 @@
-# attentionmech
+# attentionmech's musings ~ amusings
 
 To pen down thoughts around stuff i like. mostly for my own lookback
 
