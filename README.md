@@ -1,3 +1,5 @@
+# attentionmech's musings
+
 ---
 
 [2025, 2nd Jan](2025/0102.md)
