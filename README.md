@@ -1,4 +1,4 @@
-# attentionmech musings
+# ammusings by attentionmech
 
 ---
 
