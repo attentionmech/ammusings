@@ -15,16 +15,21 @@
 
 <br>
 
+## tech things
+
+- [TILDNN](https://attentionmech.github.io/TILDNN)
+
+<br>
+
 ## essays
 
 TBD
 
 <br>
 
-## links
+## socials
 
 - [X](https://x.com/attentionmech)
-- [My technical writing](https://attentionmech.github.io/TILDNN)
-
+- [Github](https://github.com/attentionmech)
 
 
