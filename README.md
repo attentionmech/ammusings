@@ -24,9 +24,10 @@
 
 ---
 
+
 ## links
 
-- [Say hi on X](https://x.com/attentionmech)
+- [X](https://x.com/attentionmech)
 - [My technical writing](https://attentionmech.github.io/TILDNN)
 
 
