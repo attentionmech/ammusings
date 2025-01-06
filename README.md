@@ -24,9 +24,7 @@
 ## tech things
 
 - [TILDNN](https://attentionmech.github.io/TILDNN)
-- [tiny-transformer](https://github.com/attentionmech/tiny-transformer)
-- [crack-manim](https://cracked-org.github.io/crack-manim/)
-- [crack-ml](https://attentionmech.github.io/crack-ml/)
+- [notebook on ml](https://attentionmech.github.io/crack-ml/)
 
 <br>
 
