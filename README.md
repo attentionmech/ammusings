@@ -37,6 +37,4 @@ TBD
 ## socials
 
 - [X](https://x.com/attentionmech)
-- [Github](https://github.com/attentionmech)
-
 
