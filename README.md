@@ -26,7 +26,6 @@
 ## tech things
 
 - [TILDNN](https://attentionmech.github.io/TILDNN)
-- [Reading Papers](https://attentionmech.github.io/crack-ml/)
 
 <br>
 
