@@ -13,7 +13,7 @@
 
 [2025, 7th Jan](2025/0107.md)
 
-[older](2025/)
+[older](https://github.com/attentionmech/ammusings/tree/main/2025)
 
 <br>
 
