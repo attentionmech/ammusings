@@ -25,12 +25,6 @@
 
 <br>
 
-## essays
-
-TBD
-
-<br>
-
 ## socials
 
 - [X](https://x.com/attentionmech)
