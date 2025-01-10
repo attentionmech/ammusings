@@ -13,11 +13,11 @@
 
 ## daily writing
 
-[2025, 10th Jan](2025/0110.md)
+- [2025, 10th Jan](2025/0110.md)
 
-[2025, 9th Jan](2025/0109.md)
+- [2025, 9th Jan](2025/0109.md)
 
-[older](https://github.com/attentionmech/ammusings/tree/main/2025)
+- [older](https://github.com/attentionmech/ammusings/tree/main/2025)
 
 <br>
 
