@@ -4,10 +4,9 @@
 🟨 🟨 🟨 🟨 🟨 🟨 🟨  <br>
 🟨 🟨 🟨  <br>
 
+<br>
 
 ## tech blog
-
-<br>
 
 - [TILDNN](https://attentionmech.github.io/TILDNN)
 
