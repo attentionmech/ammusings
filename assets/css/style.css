@@ -4,13 +4,6 @@
 	 font-family: 'Courier New', monospace;
 	 line-height: 1.6;
 	 padding: 20px;
-	 margin: 0;
-	 display: flex;
-	 justify-content: center;
-}
- .container {
-	 max-width: 800px;
-	 width: 100%;
 }
  a {
 	 color: #fc0;
