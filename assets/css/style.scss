@@ -1,0 +1,85 @@
+// Main color variables for a dystopian feel
+$background-color: #0a0a0a; // Deep black for darkness
+$text-color: #00ff99;       // Neon green text for terminal feel
+$accent-color: #ff0033;     // Blood red for warnings and accents
+$link-color: #ffcc00;       // Yellow links for contrast
+$border-color: #444;        // Dark gray borders
+
+// Global styles
+body {
+    background-color: $background-color;
+    color: $text-color;
+    font-family: 'Courier New', monospace;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $accent-color;
+        text-shadow: 0 0 10px $accent-color;
+    }
+}
+
+// Header styling
+header {
+    border-bottom: 1px solid $border-color;
+    padding-bottom: 10px;
+
+    h1 {
+        text-transform: uppercase;
+        letter-spacing: 5px;
+        color: $accent-color;
+    }
+}
+
+// Code block styling
+pre, code {
+    background: $background-color;
+    border: 1px solid $border-color;
+    padding: 10px;
+    border-radius: 5px;
+    color: $text-color;
+}
+
+// Buttons and interactive elements
+button, .btn {
+    background: $accent-color;
+    border: none;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    color: $background-color;
+
+    &:hover {
+        background: $link-color;
+        color: $background-color;
+        box-shadow: 0 0 15px $link-color;
+    }
+}
+
+// Footer styling
+footer {
+    border-top: 1px solid $border-color;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-size: 0.9rem;
+    color: darken($text-color, 20%);
+}
+
+// Adding glitch effect
+@keyframes glitch {
+    0% { transform: translate(0, 0); }
+    20% { transform: translate(-2px, 2px); }
+    40% { transform: translate(2px, -2px); }
+    60% { transform: translate(-1px, 1px); }
+    80% { transform: translate(1px, -1px); }
+    100% { transform: translate(0, 0); }
+}
+
+h1, h2, h3 {
+    animation: glitch 1.5s infinite;
+}
