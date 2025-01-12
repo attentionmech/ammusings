@@ -74,12 +74,7 @@ llama3:8b also seems to be doing the most `aesthetic/randomlike walks` . Nonethe
 | `ollama/gemma2:2b`     | <img src="assets/images/random_walk_ollama_gemma2:2b_temp_0.7.png" width="300"> | <img src="assets/images/random_walk_ollama_gemma2:2b_temp_0.9.png" width="300"> | <img src="assets/images/random_walk_ollama_gemma2:2b_temp_1.0.png" width="300"> |
 | `ollama/gemma2:9b`     | <img src="assets/images/random_walk_ollama_gemma2:9b_temp_0.7.png" width="300"> | <img src="assets/images/random_walk_ollama_gemma2:9b_temp_0.9.png" width="300"> | <img src="assets/images/random_walk_ollama_gemma2:9b_temp_1.0.png" width="300"> |
 
-
-full code: [code](assets/A00002-A.py)
-
 few animated frames for llama models random walk: [video](https://x.com/attentionmech/status/1870850915605021169)
-
-for a video of all runs(too small visibility tbh): [all video](assets/output_grid.mp4)
 
 For discussion: 
 - [hackernews](https://news.ycombinator.com/item?id=42486923)
