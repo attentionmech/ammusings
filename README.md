@@ -1,4 +1,23 @@
-🟩 🟩 🟩 🟩 🟩 🟩 🟩   <br>
+## posts
+
+- [Random walk behaviour in LLMs](articles/2024-12-22/A00002.md)
+
+<br>
+
+## projects
+
+- [Toy Neural Net Visualizer](https://attentionmech.github.io/TILDNN/projects/neuralide.html)
+- [Small Transformer Implementation](https://github.com/attentionmech/tiny-transformer)
+- [Collecting Manim Examples](https://cracked-org.github.io/crack-manim/)
+- [GPT in C](https://github.com/attentionmech/gpt.c)
+- [transformer-scope](https://github.com/attentionmech/transformer-scope)
+
+<br>
+
+
+## daily writing
+
+🟩 🟩 🟩 🟩 🟩 🟩 🟩  <br>
 🟩 🟩 🟩 🟩 🟩 🟨 🟨  <br>
 🟨 🟨 🟨 🟨 🟨 🟨 🟨  <br>
 🟨 🟨 🟨 🟨 🟨 🟨 🟨  <br>
@@ -6,13 +25,6 @@
 
 <br>
 
-## tech blog
-
-- [TILDNN](https://attentionmech.github.io/TILDNN)
-
-<br>
-
-## daily writing
 
 - [2025, 12th Jan](2025/0112.md)
 
