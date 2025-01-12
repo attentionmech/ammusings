@@ -1,6 +1,6 @@
 ## posts
 
-- [Random walk behaviour in LLMs](articles/2024-12-22/A00002.md)
+- [Random walk behaviour in LLMs](https://attentionmech.github.io/TILDNN/articles/2024-12-22/A00002.html)
 
 <br>
 
