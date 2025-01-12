@@ -6,11 +6,12 @@
 
 ## projects
 
-- [Toy Neural Net Visualizer](https://attentionmech.github.io/TILDNN/projects/neuralide.html)
-- [Small Transformer Implementation](https://github.com/attentionmech/tiny-transformer)
-- [Collecting Manim Examples](https://cracked-org.github.io/crack-manim/)
-- [GPT in C](https://github.com/attentionmech/gpt.c)
+- [Toy Neural Net Visualizer](projects/neuralide.html)
 - [transformer-scope](https://github.com/attentionmech/transformer-scope)
+- [Small Transformer Implementation](https://github.com/attentionmech/tiny-transformer)
+- [crack-manim](https://cracked-org.github.io/crack-manim/)
+- [GPT.C](https://github.com/attentionmech/gpt.c)
+
 
 <br>
 
