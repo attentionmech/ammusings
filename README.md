@@ -10,7 +10,7 @@
 - [transformer-scope](https://github.com/attentionmech/transformer-scope)
 - [tiny-transformer](https://github.com/attentionmech/tiny-transformer)
 - [crack-manim](https://cracked-org.github.io/crack-manim/)
-- [GPT.C](https://github.com/attentionmech/gpt.c)
+- [gpt.c](https://github.com/attentionmech/gpt.c)
 
 
 <br>
