@@ -1,6 +1,7 @@
 ## posts
 
 - [Random walk behaviour in LLMs](posts/random-walks-by-llm.md)
+- [Notes on Language Modelling with Transformers](https://sage-metatarsal-4b4.notion.site/Notes-on-Language-modeling-using-Transformers-17d9a047eafa80e78fabd3300e7bcd1c)
 
 <br>
 
