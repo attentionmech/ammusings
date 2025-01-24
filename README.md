@@ -26,9 +26,7 @@
 
 <br>
 
-- [2025, 23th Jan](2025/0123.md)
-- [2025, 22th Jan](2025/0122.md)
-- [2025, 21th Jan](2025/0121.md)
+- [2025, 24th Jan](2025/0124.md)
 - [older](https://github.com/attentionmech/ammusings/tree/main/2025)
 
 <br>
