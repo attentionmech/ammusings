@@ -21,12 +21,12 @@
 🟩🟩🟩🟩🟩🟩🟩  <br>
 🟩🟩🟩🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩🟩🟩  <br>
-🟩🟩🟩🟩🟩🟨🟨  <br>
+🟩🟩🟩🟩🟩🟩🟨  <br>
 🟨🟨🟨  <br>
 
 <br>
 
-- [2025, 26th Jan](2025/0126.md)
+- [2025, 27th Jan](2025/0127.md)
 - [older](https://github.com/attentionmech/ammusings/tree/main/2025)
 
 <br>
