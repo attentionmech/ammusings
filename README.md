@@ -12,23 +12,6 @@
 - [tiny-transformer](https://github.com/attentionmech/tiny-transformer)
 - [GPT.C](https://github.com/attentionmech/gpt.c)
 
-
-<br>
-
-
-## daily writing
-
-🟩🟩🟩🟩🟩🟩🟩  <br>
-🟩🟩🟩🟩🟩🟩🟩 <br>
-🟩🟩🟩🟩🟩🟩🟩  <br>
-🟩🟩🟩🟩🟩🟩🟨  <br>
-🟩🟩🟩  <br>
-
-<br>
-
-- [2025, 31th Jan](2025/0131.md)
-- [older](https://github.com/attentionmech/ammusings/tree/main/2025)
-
 <br>
 
 ## socials
