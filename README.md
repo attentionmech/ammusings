@@ -9,7 +9,6 @@
 
 - [Toy Neural Net Visualizer](projects/neuralide.html)
 - [transformer-scope](https://github.com/attentionmech/transformer-scope)
-- [GPT.C](https://github.com/attentionmech/gpt.c)
 
 <br>
 
